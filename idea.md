@@ -22,8 +22,8 @@ a bunch of repos under it. It also provides nice api.
 Theres another thing, called [Webshell](http://webshell.io) which lets you combine
 apis and create your own custom api access points.
 
-Utilizing the above two we can end up with something like that:
----------------------------------------------------------------
+Utilizing the above two we end up with something like that:
+-----------------------------------------------------------
 
 We create an organization on github, lets name it *foobar-registry* and set up a simple
 api with webshell. The api is set up in a way that it can create repositories under
