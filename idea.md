@@ -34,7 +34,7 @@ The repository will not be forked if the name is already taken.
 So, assuming we have successfully managed to utilize webshell and github features,
 and created the working *foobar-registry*. This is how it functions:
 
-1. User *moga* creates some *component* which happens to be valid a valid component.
+1. User *moga* creates some *component* which happens to be a valid component.
 
 2. User *moga* goes to our *foobar-registry* and submits a request to fork his repo.
 
